@@ -44,7 +44,7 @@ Projetos em destaque: [E-commerce](https://www.direcaoconcursos.com.br/), [Area 
 
 <div align="center">
   
-  Contato
+  <h2>Contato</h2>
   
 <a href="https://www.linkedin.com/in/rian-moraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
