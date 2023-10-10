@@ -28,9 +28,10 @@
 [<img align="left" height="94px" width="94px" alt="Direção Concursos" src="https://yt3.googleusercontent.com/L1M5ZVLHSy_DsYyoxJt7sokn8eNPGpl2Yeicju5jt-Wm-UAPyFUd8p3_MEpBs-omePejeWrnLw=s900-c-k-c0x00ffffff-no-rj"/>](https://www.direcaoconcursos.com.br/)
 
 **Front-end Developer (Jr)** \
-[**Direção concursos**](https://www.direcaoconcursos.com.br/) • CLT \
+<a href="https://www.direcaoconcursos.com.br" target="_blank">Direção concursos</a> • CLT \
 Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Next`, , `Styled-components`, `Redux` `Jira`, `Cypress`, `SEO`\
-Projetos em destaque: [E-commerce](https://www.direcaoconcursos.com.br){:target="_blank"}, [Area do aluno](https://aluno.direcaoconcursos.com.br/home){:target="_blank"}
+Projetos em destaque: <a href="https://www.direcaoconcursos.com.br" target="_blank">E-commerce</a>, <a href="https://aluno.direcaoconcursos.com.br/home" target="_blank">Área do aluno</a>
+
 
 <br/>
 
