@@ -18,7 +18,7 @@
    
 
   &nbsp;
-    &nbsp;
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" /> 
    
   </div>
@@ -60,11 +60,23 @@
   &nbsp;
   &nbsp;
   &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+
 
  <div  align="center">
     
   Back end 
-    
+
+  &nbsp;
+  &nbsp;
+
     
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/> 
      
