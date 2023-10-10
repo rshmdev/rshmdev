@@ -2,10 +2,18 @@
 
 ### Desenvolvedor Frond-end
 
-<div>
-    
-### Front end 
-    
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+#### Front end 
+
 ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg =60x60)
      
 ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =60x60)
@@ -18,11 +26,11 @@
 
 ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg =60x60)
 
-</div>
 
-<div>
-    
-### Back end 
+#### Back end 
+
+&nbsp;
+&nbsp;
 
 ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg =60x60) 
      
@@ -31,18 +39,13 @@
 ![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg =60x60)
     
 ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg =60x60)
-    
-</div>
 
-<div>
-    
-### Ferramentas
-    
+
+#### Ferramentas
+
 ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg =60x60)
     
 ![Visual Studio](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg =60x60)
-
-</div>
  
   ### Experiência de trabalho
 
