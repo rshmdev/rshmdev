@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Frond-end
 
-<div align="center">
+<div>
     
 ### Front end 
     
@@ -20,7 +20,7 @@
 
 </div>
 
-<div align="center">
+<div >
     
 ### Back end 
 
@@ -34,7 +34,7 @@
     
 </div>
 
-<div align='center'>
+<div>
     
 ### Ferramentas
     
