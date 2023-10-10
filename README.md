@@ -29,7 +29,7 @@
 
 **Front-end Developer (Jr)** \
 [**Direção concursos**](https://www.direcaoconcursos.com.br/) • CLT \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Next`, `Jira`, `Cypress`, `SEO`\
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Next`, , `Styled-components`, `Redux` `Jira`, `Cypress`, `SEO`\
 Projetos em destaque: [E-commerce](https://www.direcaoconcursos.com.br/), [Area do aluno](https://aluno.direcaoconcursos.com.br/home)
 
 <br/>
