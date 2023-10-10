@@ -21,7 +21,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"  width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"  width="60" height="60" />
 
 <br/>
-<br/>
  
 ## Experiência de trabalho
 
@@ -33,8 +32,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Direção concursos**](https://www.direcaoconcursos.com.br/) • CLT \
 Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Next`, `Jira`, `Cypress`, `SEO`\
 Projetos em destaque: [E-commerce](https://www.direcaoconcursos.com.br/), [Area do aluno](https://aluno.direcaoconcursos.com.br/home)
-<br/>
-<br/>
+
 <br/>
 
  <div>
@@ -42,15 +40,7 @@ Projetos em destaque: [E-commerce](https://www.direcaoconcursos.com.br/), [Area 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiozinfk&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
   
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-
-
+<br/>
 
 <div align="center">
   
@@ -59,8 +49,6 @@ Projetos em destaque: [E-commerce](https://www.direcaoconcursos.com.br/), [Area 
 <a href="https://www.linkedin.com/in/rian-moraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
  <a href = "mailto:rianherminio2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-    
   
   <div/>
 
