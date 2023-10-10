@@ -1,6 +1,6 @@
 # Opaa, Eu sou o Rian 👋
 
-### Desenvolvedor Frond-end
+### Desenvolvedor Full stack
 
 ## Front end 
 
