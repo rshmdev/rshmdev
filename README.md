@@ -24,7 +24,6 @@
  
 ## Experiência de trabalho
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Direção Concursos" src="https://yt3.googleusercontent.com/L1M5ZVLHSy_DsYyoxJt7sokn8eNPGpl2Yeicju5jt-Wm-UAPyFUd8p3_MEpBs-omePejeWrnLw=s900-c-k-c0x00ffffff-no-rj"/>](https://www.direcaoconcursos.com.br/)
 
