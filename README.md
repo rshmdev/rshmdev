@@ -1,106 +1,48 @@
-<h1 align="center"> Opaa, Eu sou o Rian 👋 <h1/>
+# Opaa, Eu sou o Rian 👋
 
-<h3 align="center" > Desenvolvedor Frond-end <h3/>
-  
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  
- 
-  
-  <div  align="center">
+### Desenvolvedor Frond-end
+
+<div align="center">
     
-  Front end 
+### Front end 
     
-    
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60" />
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg =60x60)
      
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"  />
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =60x60)
     
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" />
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg =60x60)
     
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg =60x60)
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />     
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg =60x60)     
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  width="60" height="60" />
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg =60x60)
 
+</div>
+
+<div align="center">
     
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" >
-   
-  </div>
+### Back end 
 
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-
-
- <div  align="center">
-    
-  Back end 
-
-  &nbsp;
-  &nbsp;
-
-    
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/> 
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg =60x60) 
      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60" />
+![AngularJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg =60x60)
     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"  width="60" height="60"/>
+![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg =60x60)
     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" />
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg =60x60)
     
-    
-  </div>
-  
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  
-  <div align='center'>
-   
-    
-  Ferramentas
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"  />
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  width="60" height="60"  />
+</div>
 
+<div align='center'>
     
+### Ferramentas
     
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg =60x60)
     
-    
-  </div>
-  
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
+![Visual Studio](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg =60x60)
+
+</div>
  
   ### Experiência de trabalho
 
