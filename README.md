@@ -29,10 +29,14 @@
 
 **Front-end Developer (Jr)** \
 <a href="https://www.direcaoconcursos.com.br" target="_blank">Direção concursos</a> • CLT \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Next`, , `Styled-components`, `Redux` `Jira`, `Cypress`, `SEO`\
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Next`, `Styled-components`, `Redux` `Jira`, `Cypress`, `SEO`\
 Projetos em destaque: <a href="https://www.direcaoconcursos.com.br" target="_blank">E-commerce</a>, <a href="https://aluno.direcaoconcursos.com.br/home" target="_blank">Área do aluno</a>
 
+[<img align="left" height="94px" width="94px" alt="Direção Concursos" src="https://yt3.googleusercontent.com/L1M5ZVLHSy_DsYyoxJt7sokn8eNPGpl2Yeicju5jt-Wm-UAPyFUd8p3_MEpBs-omePejeWrnLw=s900-c-k-c0x00ffffff-no-rj"/>](https://smi.eng.br/)
 
+**Desenvolvedor full stack (Pleno)** \
+<a href="https://www.direcaoconcursos.com.br" target="_blank">SMI Engenharia</a>
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Next`, `ASP.NET`, `Tailwind`, `Styled-components`, `Redux`, `Azure`, `CI/CD`\
 <br/>
 
  <div>
