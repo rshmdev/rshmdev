@@ -32,7 +32,7 @@
 Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Next`, `Styled-components`, `Redux` `Jira`, `Cypress`, `SEO`\
 Projetos em destaque: <a href="https://www.direcaoconcursos.com.br" target="_blank">E-commerce</a>, <a href="https://aluno.direcaoconcursos.com.br/home" target="_blank">Área do aluno</a>
 
-[<img align="left" height="94px" width="94px" alt="Direção Concursos" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsmi.eng.br%2F&psig=AOvVaw0Z2rj1WPoxq46pT81jXB1x&ust=1708142406479000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjK2rz8roQDFQAAAAAdAAAAABAI"/>](https://smi.eng.br/)
+[<img align="left" height="94px" width="94px" alt="Direção Concursos" src="https://media.licdn.com/dms/image/D4D0BAQEKRiHxS93gIg/company-logo_200_200/0/1701873085450/smi_engenharia_logo?e=2147483647&v=beta&t=6THPQ_mYAhHPTRb0K7XmEqz-_Y8qto35y3F8QEzyOeY"/>](https://smi.eng.br/)
 
 **Desenvolvedor full stack (Pleno)** \
 <a href="https://www.direcaoconcursos.com.br" target="_blank">SMI Engenharia</a>
