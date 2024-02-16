@@ -35,7 +35,7 @@ Projetos em destaque: <a href="https://www.direcaoconcursos.com.br" target="_bla
 [<img align="left" height="94px" width="94px" alt="Direção Concursos" src="https://media.licdn.com/dms/image/D4D0BAQEKRiHxS93gIg/company-logo_200_200/0/1701873085450/smi_engenharia_logo?e=2147483647&v=beta&t=6THPQ_mYAhHPTRb0K7XmEqz-_Y8qto35y3F8QEzyOeY"/>](https://smi.eng.br/)
 
 **Desenvolvedor full stack (Pleno)** \
-<a href="https://www.direcaoconcursos.com.br" target="_blank">SMI Engenharia</a>
+<a href="https://www.direcaoconcursos.com.br" target="_blank">SMI Engenharia</a>\
 Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Next`, `ASP.NET`, `Tailwind`, `Styled-components`, `Redux`, `Azure`, `CI/CD`\
 <br/>
 
