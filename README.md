@@ -33,7 +33,7 @@ Também tenho experiência no segmento de educação digital e e-commerce, onde 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" />
 </p>
 
 ## Back-end
@@ -97,30 +97,6 @@ Participação no desenvolvimento de produtos digitais de alto tráfego voltados
 * Área do aluno
 * Melhorias de SEO e performance
 * Experiência de usuário
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rshmdev&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rshmdev&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
----
-
-# 📫 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rian-moraes" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:rianherminio2002@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
