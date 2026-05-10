@@ -1,64 +1,138 @@
-# Opaa, Eu sou o Rian 👋
+# Opaa, eu sou o Rian 👋
 
-## Desenvolvedor Full stack
+```ts
+const rian = {
+  role: "Desenvolvedor Full Stack",
+  focus: ["Arquitetura Front-end", "Sistemas escaláveis", "DX", "Performance"],
+  stack: {
+    frontEnd: ["React", "Next.js", "TypeScript", "Angular", "TailwindCSS"],
+    backEnd: ["Node.js", ".NET", "Go"],
+    database: ["MongoDB", "SQL Server"],
+    devops: ["Docker", "Azure", "CI/CD"],
+  },
+};
+```
 
-<br/>
+Desenvolvedor Full Stack com experiência na construção de aplicações web modernas, escaláveis e focadas em performance.
 
-## Front end 
+Hoje atuo na **SMI Engenharia** desenvolvendo soluções internas e produtos digitais utilizando tecnologias como **React, Next.js, Node.js, ASP.NET e Azure**, participando desde arquitetura até deploy e evolução contínua das aplicações.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="60" height="60"/>
+Também tenho experiência no segmento de educação digital e e-commerce, onde trabalhei no desenvolvimento de plataformas de grande acesso, área do aluno e otimizações focadas em experiência do usuário e SEO.
 
+---
 
-<br/>
+# 🚀 Tech Stack
 
-## Back end 
+## Front-end
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"  width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  width="60" height="60"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" />
+</p>
 
+## Back-end
 
-<br/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+</p>
 
-## Ferramentas
+## Ferramentas & Ambiente
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"  width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"  width="60" height="60" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+</p>
 
-<br/>
- 
-## Experiência de trabalho
+---
 
+# 💼 Experiência
 
-[<img align="left" height="94px" width="94px" alt="Direção Concursos" src="https://yt3.googleusercontent.com/L1M5ZVLHSy_DsYyoxJt7sokn8eNPGpl2Yeicju5jt-Wm-UAPyFUd8p3_MEpBs-omePejeWrnLw=s900-c-k-c0x00ffffff-no-rj"/>](https://www.direcaoconcursos.com.br/)
+## SMI Engenharia — Desenvolvedor Full Stack Pleno
 
-**Front-end Developer (Jr)** \
-<a href="https://www.direcaoconcursos.com.br" target="_blank">Direção concursos</a> • CLT \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Next`, `Styled-components`, `Redux` `Jira`, `Cypress`, `SEO`\
-Projetos em destaque: <a href="https://www.direcaoconcursos.com.br" target="_blank">E-commerce</a>, <a href="https://aluno.direcaoconcursos.com.br/home" target="_blank">Área do aluno</a>
+🔗 [https://smi.eng.br](https://smi.eng.br)
 
-[<img align="left" height="94px" width="94px" alt="Direção Concursos" src="https://media.licdn.com/dms/image/D4D0BAQEKRiHxS93gIg/company-logo_200_200/0/1701873085450/smi_engenharia_logo?e=2147483647&v=beta&t=6THPQ_mYAhHPTRb0K7XmEqz-_Y8qto35y3F8QEzyOeY"/>](https://smi.eng.br/)
+Atuação no desenvolvimento e manutenção de aplicações corporativas, dashboards, integrações e sistemas internos.
 
-**Desenvolvedor full stack (Pleno)** \
-<a href="https://smi.eng.br" target="_blank">SMI Engenharia</a>\
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Next`, `ASP.NET`, `Tailwind`, `Styled-components`, `Redux`, `Azure`, `CI/CD`\
-<br/>
+### Principais tecnologias
 
- <div>
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rshmdev&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="tiozinfk github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rshmdev&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
-  
-<br/>
+`React` `Next.js` `Node.js` `ASP.NET` `TypeScript` `Azure` `Docker` `TailwindCSS` `CI/CD`
+
+### Responsabilidades
+
+* Desenvolvimento de aplicações full stack
+* Estruturação de arquitetura front-end
+* Integração entre sistemas
+* Criação e manutenção de APIs
+* Deploy e automações em ambiente Azure
+* Melhoria contínua de performance e usabilidade
+
+---
+
+## Direção Concursos — Front-end Developer
+
+🔗 [https://www.direcaoconcursos.com.br](https://www.direcaoconcursos.com.br)
+
+Participação no desenvolvimento de produtos digitais de alto tráfego voltados para educação online.
+
+### Principais tecnologias
+
+`React` `Next.js` `Redux` `Styled-components` `Node.js` `Cypress`
+
+### Projetos
+
+* Plataforma E-commerce
+* Área do aluno
+* Melhorias de SEO e performance
+* Experiência de usuário
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  
-  <h2>Contato</h2>
-  
-<a href="https://www.linkedin.com/in/rian-moraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   <a href = "mailto:rianherminio2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  
-  
-  <div/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rshmdev&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rshmdev&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
+---
 
+# 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rian-moraes" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:rianherminio2002@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# ⚡ Sobre mim
+
+* Curto arquitetura de software e componentização
+* Gosto de transformar interface complexa em experiência simples
+* Curto otimização, performance e organização de código
+* Sempre estudando novas tecnologias e padrões de desenvolvimento
+
+---
+
+<div align="center">
+  <i>"Código limpo evita terapia em produção."</i>
+</div>
