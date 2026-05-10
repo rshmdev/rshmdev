@@ -106,9 +106,3 @@ Participação no desenvolvimento de produtos digitais de alto tráfego voltados
 * Gosto de transformar interface complexa em experiência simples
 * Curto otimização, performance e organização de código
 * Sempre estudando novas tecnologias e padrões de desenvolvimento
-
----
-
-<div align="center">
-  <i>"Código limpo evita terapia em produção."</i>
-</div>
