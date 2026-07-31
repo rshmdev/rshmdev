@@ -21,6 +21,12 @@ Também tenho experiência no segmento de educação digital e e-commerce, onde 
 
 ---
 
+# 🌍 Open Source
+
+* **[Portainer](https://github.com/portainer/portainer)** — corrigi a renderização da descrição de variáveis de ambiente como tooltip nos Application Templates, junto com testes unitários cobrindo o caso com e sem descrição ([PR #13204](https://github.com/portainer/portainer/pull/13204)). A correção foi portada upstream e incluída na versão **2.44.0**.
+
+---
+
 # 🚀 Tech Stack
 
 ## Front-end
@@ -40,9 +46,13 @@ Também tenho experiência no segmento de educação digital e e-commerce, onde 
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 </p>
 
@@ -62,41 +72,44 @@ Também tenho experiência no segmento de educação digital e e-commerce, onde 
 
 ## SMI Engenharia — Desenvolvedor Full Stack Pleno
 
-🔗 [https://smi.eng.br](https://smi.eng.br)
+🔗 [smi.eng.br](https://smi.eng.br)
 
-Atuação no desenvolvimento e manutenção de aplicações corporativas, dashboards, integrações e sistemas internos.
+Liderei a arquitetura e o desenvolvimento de uma plataforma SaaS industrial em operação em **4 plantas** distribuídas entre Brasil, América do Norte e América Central.
 
-### Principais tecnologias
+* **Redução de 13% nos custos energéticos** através da automação inteligente do controle de compressores industriais
+* **Aumento de 64% na velocidade de identificação de falhas críticas** com monitoramento e análise de dados em tempo real
+* Arquitetura distribuída com PostgreSQL, SQL Server, Redis e RabbitMQ
+* Pipelines de CI/CD no Azure DevOps automatizando testes, builds e deploys
+* Padronização de ambientes e escalabilidade com Docker
+* Integração entre software industrial, infraestrutura cloud e observabilidade
 
-`React` `Next.js` `Node.js` `ASP.NET` `TypeScript` `Azure` `Docker` `TailwindCSS` `CI/CD`
-
-### Responsabilidades
-
-* Desenvolvimento de aplicações full stack
-* Estruturação de arquitetura front-end
-* Integração entre sistemas
-* Criação e manutenção de APIs
-* Deploy e automações em ambiente Azure
-* Melhoria contínua de performance e usabilidade
+`Node.js` `NestJS` `Next.js` `React` `.NET` `PostgreSQL` `SQL Server` `Redis` `RabbitMQ` `Docker` `Azure DevOps`
 
 ---
 
-## Direção Concursos — Front-end Developer
+## Direção Concursos — Desenvolvedor Front-end
 
-🔗 [https://www.direcaoconcursos.com.br](https://www.direcaoconcursos.com.br)
+🔗 [direcaoconcursos.com.br](https://www.direcaoconcursos.com.br)
 
-Participação no desenvolvimento de produtos digitais de alto tráfego voltados para educação online.
+Produtos digitais de alto tráfego para educação online: plataforma de e-commerce e área do aluno.
 
-### Principais tecnologias
+* Liderei iniciativas de **SEO técnico**, elevando o posicionamento orgânico do e-commerce
+* Otimização de **Core Web Vitals** e tempo de carregamento das páginas
+* Scores de performance e acessibilidade próximos ao máximo no Lighthouse
+* Desenvolvimento das interfaces em React e Next.js
 
 `React` `Next.js` `Redux` `Styled-components` `Node.js` `Cypress`
 
-### Projetos
+---
 
-* Plataforma E-commerce
-* Área do aluno
-* Melhorias de SEO e performance
-* Experiência de usuário
+## Facil.tel — Desenvolvedor Full Stack
+
+Sistemas corporativos e integrações de negócio.
+
+* Evolução de APIs e interfaces web com foco em performance e usabilidade
+* Desenvolvimento full stack sobre bancos relacionais
+
+`Node.js` `React` `SQL`
 
 ---
 
